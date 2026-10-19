@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(146, 178, 232);
+}
+
+body {
+    margin: 0;
+}
+
+.sitelinks {
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    background-color: rgb(58, 70, 148);
+    
+}
+
+.site-link {
+    background-color: rgb(91, 133, 216);
+    margin: 0 6px;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.site-link:hover {
+    background-color: rgb(74, 114, 194);
+}
